@@ -1,5 +1,5 @@
 import { test } from '@jest/globals';
-import showHealth from '../app.js';
+import showHealth from '../task1.js';
 
 test.each([
   { heroesObj: { name: 'Маг', health: 90 }, expected: 'healthy' },

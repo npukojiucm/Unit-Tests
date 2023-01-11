@@ -1,5 +1,5 @@
 import './css/style.css';
 
-import './js/app.js';
+import './js/task1.js';
 
 // TODO: write your code in app.js
